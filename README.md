@@ -32,3 +32,7 @@ A Content-Based Movie Recommendation Engine built with Python, Pandas, and Sciki
    ```bash
    python recommender.py
    ```
+
+## Configuration
+Copy .env.example to .env and add your API keys if you plan to fetch live data.
+
